@@ -21,13 +21,13 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 324px;
+    min-height: 364px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 211px;
+    min-height: 248px;
   }
 } .u-section-2 {
   background-image: url("images/21.png");
@@ -35,12 +35,12 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 703px;
+  min-height: 791px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 537px;
+    min-height: 601px;
   }
 }
 
@@ -52,44 +52,48 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 340px;
+    min-height: 358px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 247px;
+    min-height: 250px;
   }
 } .u-section-3 {
-  background-image: url("images/31.png");
-  background-position: 50% 50%;
+  background-image: url("images/9_1p.gif");
+  background-position: 41.88% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 703px;
+  min-height: 919px;
 }
 
 @media (max-width: 1199px) {
+   .u-section-3 {
+    background-position: 43.48% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
-    min-height: 600px;
+    min-height: 792px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 514px;
+    min-height: 610px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 400px;
+    min-height: 467px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 274px;
+    min-height: 320px;
   }
 } .u-section-4 {
   background-image: url("images/43.png");
@@ -473,7 +477,7 @@
   }
 
   .u-section-6 .u-countdown-1 {
-    margin: 5px -6px;
+    margin: 8px -6px;
     padding: 0;
   }
 
@@ -483,7 +487,7 @@
   }
 
   .u-section-6 .u-countdown-counter-1 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-label-1 {
@@ -491,7 +495,7 @@
   }
 
   .u-section-6 .u-countdown-separator-1 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-item-2 {
@@ -500,7 +504,7 @@
   }
 
   .u-section-6 .u-countdown-counter-2 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-label-2 {
@@ -508,7 +512,7 @@
   }
 
   .u-section-6 .u-countdown-separator-2 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-item-3 {
@@ -517,7 +521,7 @@
   }
 
   .u-section-6 .u-countdown-counter-3 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-label-3 {
@@ -525,7 +529,7 @@
   }
 
   .u-section-6 .u-countdown-separator-3 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-item-4 {
@@ -534,7 +538,7 @@
   }
 
   .u-section-6 .u-countdown-counter-4 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-label-4 {
@@ -542,7 +546,7 @@
   }
 
   .u-section-6 .u-countdown-separator-4 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-item-5 {
@@ -551,7 +555,7 @@
   }
 
   .u-section-6 .u-countdown-counter-5 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-label-5 {
@@ -559,7 +563,7 @@
   }
 
   .u-section-6 .u-countdown-separator-5 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-item-6 {
@@ -568,14 +572,14 @@
   }
 
   .u-section-6 .u-countdown-counter-6 {
-    font-size: 1.25rem;
+    font-size: 0.875rem;
   }
 
   .u-section-6 .u-countdown-label-6 {
     font-size: 0.625rem;
   }
 } .u-section-7 {
-  background-image: url("images/51.png");
+  background-image: url("images/fecah.gif");
   background-position: 50% 50%;
 }
 
@@ -743,7 +747,7 @@
     font-size: 0.75rem;
   }
 } .u-section-12 {
-  background-image: url("images/81.png");
+  background-image: url("images/9_1.gif");
   background-position: 50% 50%;
 }
 
@@ -774,12 +778,12 @@
     min-height: 180px;
   }
 } .u-section-13 {
-  background-image: url("images/8.png");
+  background-image: url("images/9.gif");
   background-position: 50% 50%;
 }
 
 .u-section-13 .u-sheet-1 {
-  min-height: 697px;
+  min-height: 716px;
 }
 
 @media (max-width: 1199px) {
@@ -802,7 +806,7 @@
 
 @media (max-width: 575px) {
   .u-section-13 .u-sheet-1 {
-    min-height: 246px;
+    min-height: 245px;
   }
 } .u-section-14 {
   background-image: url("images/CopiadeCopiadeGreenGoldRusticChildBaptismInvitationPresentacin169.png");
